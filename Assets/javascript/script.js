@@ -14,10 +14,10 @@ beforeTime = moment('9:00:00',format),
 afterTime = moment('9:59:59',format);
 
 if (timeblock4.isBefore(beforeTime)){
-    text1.style.backgroundColor = "darkgray";
+    text1.style.backgroundColor = "green";
 
 } else {
-    text1.style.backgroundColor = "green";
+    text1.style.backgroundColor = "darkgray";
 }
 if (timeblock4.isBetween(beforeTime, afterTime)){
     text1.style.backgroundColor = "red";
@@ -29,10 +29,10 @@ beforeTime = moment('10:00:00',format),
 afterTime = moment('10:59:59',format);
 
 if (timeblock4.isBefore(beforeTime)){
-    text2.style.backgroundColor = "darkgray";
+    text2.style.backgroundColor = "green";
 
 } else {
-    text2.style.backgroundColor = "green";
+    text2.style.backgroundColor = "darkgray";
 }
 if (timeblock4.isBetween(beforeTime, afterTime)){
     text2.style.backgroundColor = "red";
@@ -44,10 +44,10 @@ beforeTime = moment('11:00:00',format),
 afterTime = moment('11:59:59',format);
 
 if (timeblock4.isBefore(beforeTime)){
-    text3.style.backgroundColor = "darkgray";
+    text3.style.backgroundColor = "green";
 
 } else {
-    text3.style.backgroundColor = "green";
+    text3.style.backgroundColor = "darkgray";
 }
 if (timeblock4.isBetween(beforeTime, afterTime)){
     text3.style.backgroundColor = "red";
@@ -59,10 +59,10 @@ beforeTime = moment('12:00:00',format),
 afterTime = moment('12:59:59',format);
 
 if (timeblock4.isBefore(beforeTime)){
-    text4.style.backgroundColor = "darkgray";
+    text4.style.backgroundColor = "green";
 
 } else {
-    text4.style.backgroundColor = "green";
+    text4.style.backgroundColor = "darkgray";
 }
 if (timeblock4.isBetween(beforeTime, afterTime)){
     text4.style.backgroundColor = "red";
@@ -74,10 +74,10 @@ beforeTime = moment('13:00:00',format),
 afterTime = moment('13:59:59',format);
 
 if (timeblock4.isBefore(beforeTime)){
-    text5.style.backgroundColor = "darkgray";
+    text5.style.backgroundColor = "green";
 
 } else {
-    text5.style.backgroundColor = "green";
+    text5.style.backgroundColor = "darkgray";
 }
 if (timeblock4.isBetween(beforeTime, afterTime)){
     text5.style.backgroundColor = "red";
@@ -89,10 +89,10 @@ beforeTime = moment('14:00:00',format),
 afterTime = moment('14:59:59',format);
 
 if (timeblock4.isBefore(beforeTime)){
-    text6.style.backgroundColor = "darkgray";
+    text6.style.backgroundColor = "green";
 
 } else {
-    text6.style.backgroundColor = "green";
+    text6.style.backgroundColor = "darkgray";
 }
 if (timeblock4.isBetween(beforeTime, afterTime)){
     text6.style.backgroundColor = "red";
@@ -104,10 +104,10 @@ beforeTime = moment('15:00:00',format),
 afterTime = moment('15:59:59',format);
 
 if (timeblock4.isBefore(beforeTime)){
-    text7.style.backgroundColor = "darkgray";
+    text7.style.backgroundColor = "green";
 
 } else {
-    text7.style.backgroundColor = "green";
+    text7.style.backgroundColor = "darkgray";
 }
 if (timeblock4.isBetween(beforeTime, afterTime)){
     text7.style.backgroundColor = "red";
@@ -119,10 +119,10 @@ beforeTime = moment('16:00:00',format),
 afterTime = moment('16:59:59',format);
 
 if (timeblock4.isBefore(beforeTime)){
-    text8.style.backgroundColor = "darkgray";
+    text8.style.backgroundColor = "green";
 
 } else {
-    text8.style.backgroundColor = "green";
+    text8.style.backgroundColor = "darkgray";
 }
 if (timeblock4.isBetween(beforeTime, afterTime)){
     text8.style.backgroundColor = "red";
@@ -134,10 +134,10 @@ beforeTime = moment('17:00:00',format),
 afterTime = moment('17:59:59',format);
 
 if (timeblock4.isBefore(beforeTime)){
-    text9.style.backgroundColor = "darkgray";
+    text9.style.backgroundColor = "green";
 
 } else {
-    text9.style.backgroundColor = "green";
+    text9.style.backgroundColor = "darkgray";
 }
 if (timeblock4.isBetween(beforeTime, afterTime)){
     text9.style.backgroundColor = "red";
